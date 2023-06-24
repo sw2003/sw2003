@@ -3,6 +3,8 @@
 I'm currently working on full stack development
 
 ## Frontend React Projects
+https://github.com/sw2003/WeatherApp
+
 https://github.com/sw2003/BudgetApp
 
 https://github.com/sw2003/TodoApp
